@@ -198,6 +198,8 @@
   #include "pins_STB_11.h"            // ATmega644P, ATmega1284P
 #elif MB(AZTEEG_X1)
   #include "pins_AZTEEG_X1.h"         // ATmega644P, ATmega1284P
+#elif MB(TRONXY_CXY_V2)
+  #include "pins_TRONXY_CXY_V2.h"     // ATmega 1284P
 
 //
 // Other ATmega644P, ATmega644, ATmega1284P

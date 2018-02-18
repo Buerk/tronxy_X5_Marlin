@@ -111,6 +111,7 @@
 
 #define BOARD_SANGUINOLOLU_11   6     // Sanguinololu < 1.2
 #define BOARD_SANGUINOLOLU_12   62    // Sanguinololu 1.2 and above
+#define BOARD_TRONXY_CXY_V2     621   // Tronxy CXY-V2 mostly compatible to Sanguinololu 1.2
 #define BOARD_MELZI             63    // Melzi
 #define BOARD_MELZI_MAKR3D      66    // Melzi with ATmega1284 (MaKr3d version)
 #define BOARD_MELZI_CREALITY    89    // Melzi Creality3D board (for CR-10 etc)
